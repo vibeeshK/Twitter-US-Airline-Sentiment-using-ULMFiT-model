@@ -1,5 +1,5 @@
 # Universal Language Model Fine-tuning for Text Classification
-        (Challenge submission for fellowship.ai)
+Challenge submission for fellowship.ai
         
 # ULMFiT Sentiment
 Apply a supervised or semi-supervised ULMFiT model to Twitter US Airlines Sentiment
@@ -20,7 +20,7 @@ This method involves fine-tuning a pre-trained language model (LM), trained on t
 
 
 # General-domain LM pretraining 
-The model was pre-trained using Wikitext-103 which is consisting of 28,595 preprocessed Wikipedia documents and 103 million words [2].
+The model was pre-trained using Wikitext-103 which is consisting of 28,595 preprocessed Wikipedia documents and 103 million words.
 
 # Target task LM fine-tuning 
 Regardless of how complex the general-domain data used for pre-training is, the target task data would typically come from a different source. Therefore, we fine-tune the language model on target task results. This stage converges more quickly, provided a pre-trained general-domain LM, as it only needs to adjust to the idiosyncrasies of the target data, and it enables us to train a robust language model even for small datasets.
