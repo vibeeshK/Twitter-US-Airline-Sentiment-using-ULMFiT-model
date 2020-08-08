@@ -16,7 +16,8 @@ ULMFiT is essentially a method to enable transfer learning for any NLP task and 
 
 This method involves fine-tuning a pre-trained language model (LM), trained on the Wikitext 103 dataset, to a new dataset in such a manner that it does not forget what it previously learned.
 
-https://github.com/vibeeshK/Twitter-US-Airline-Sentiment-using-ULMFiT-model/blob/master/Images/ULMFIT.webp
+![SegNet Architecture](https://github.com/vibeeshK/Twitter-US-Airline-Sentiment-using-ULMFiT-model/blob/master/Images/ULMFIT.webp)
+
 
 # General-domain LM pretraining 
 The model was pre-trained using Wikitext-103 which is consisting of 28,595 preprocessed Wikipedia documents and 103 million words [2].
@@ -35,5 +36,6 @@ The pre-trained language model with two additional linear blocks was augmented t
 
 # Results
 
-https://github.com/vibeeshK/Twitter-US-Airline-Sentiment-using-ULMFiT-model/blob/master/Images/Results.png
+![SegNet Architecture](https://github.com/vibeeshK/Twitter-US-Airline-Sentiment-using-ULMFiT-model/blob/master/Images/Results.png)
+
 
