@@ -1,5 +1,4 @@
 # Universal Language Model Fine-tuning for Text Classification
-Challenge submission for fellowship.ai
         
 # ULMFiT Sentiment
 Apply a supervised or semi-supervised ULMFiT model to Twitter US Airlines Sentiment
